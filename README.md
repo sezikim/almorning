@@ -18,5 +18,5 @@
 | S1     | [BOJ5547](https://www.acmicpc.net/problem/5547)              | 09/24 |
 | G5     | [BOJ14502](https://www.acmicpc.net/problem/14502)            | 09/24 |
 | G4     | [BOJ17144](https://www.acmicpc.net/problem/17144)            | 09/27 |
-| G5     | BOJ1068                                                      | 09/27 |
+| G5     | [BOJ1068](https://www.acmicpc.net/problem/1068)              | 09/27 |
 
