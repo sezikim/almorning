@@ -1,7 +1,7 @@
 import java.util.Stack;
 
 // 파일명 정렬
-public class Sol1 {
+public class 파일명정렬 {
     public static void main(String[] args) {
         System.out.println(new Solution1().solution("(()())()"));
         System.out.println(new Solution1().solution(""));
