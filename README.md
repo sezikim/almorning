@@ -6,8 +6,8 @@
 
 | 난이도 | 문제 링크                                         | 날짜  |
 | ------ | ------------------------------------------------- | ----- |
-| G5     | [BOJ2015](https://www.acmicpc.net/problem/2015)   | 09/29 |
-| G4     | [BOJ20058](https://www.acmicpc.net/problem/20058) | 09/29 |
+| G5     | [BOJ14503](https://www.acmicpc.net/problem/14503) | 09/30 |
+| S1     | [BOJ15486](https://www.acmicpc.net/problem/15486) | 09/30 |
 
 ## 📚 지난 문제
 
@@ -21,4 +21,6 @@
 | G5     | [BOJ1068](https://www.acmicpc.net/problem/1068)              | 09/27 |
 | G5     | [BOJ14500](https://www.acmicpc.net/problem/14500)            | 09/28 |
 | G5     | [BOJ21610](https://www.acmicpc.net/problem/21610)            | 09/28 |
+| G5     | [BOJ2015](https://www.acmicpc.net/problem/2015)              | 09/29 |
+| G4     | [BOJ20058](https://www.acmicpc.net/problem/20058)            | 09/29 |
 
