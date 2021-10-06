@@ -4,10 +4,10 @@
 
 ## 📖 오늘의 문제
 
-| 난이도 | 문제 링크                                         | 날짜  |
-| ------ | ------------------------------------------------- | ----- |
-| G4     | [BOJ19238](https://www.acmicpc.net/problem/19238) | 10/04 |
-| G4     | [BOJ16236](https://www.acmicpc.net/problem/16236) | 10/04 |
+| 난이도 | 문제 링크                                                    | 날짜  |
+| ------ | ------------------------------------------------------------ | ----- |
+| 1      | [복서정렬하기](https://programmers.co.kr/learn/courses/30/lessons/85002?language=java) | 10/06 |
+| 2      | [입실퇴실](https://programmers.co.kr/learn/courses/30/lessons/86048) | 10/06 |
 
 ## 📚 지난 문제
 
@@ -27,4 +27,8 @@
 | S1     | [BOJ15486](https://www.acmicpc.net/problem/15486)            | 09/30 |
 | G3     | [BOJ20057](https://www.acmicpc.net/problem/20057)            | 10/01 |
 | G5     | [BOJ12904](https://www.acmicpc.net/problem/12904)            | 10/01 |
+| G4     | [BOJ19238](https://www.acmicpc.net/problem/19238)            | 10/04 |
+| G4     | [BOJ16236](https://www.acmicpc.net/problem/16236)            | 10/04 |
+| G3     | [BOJ11066](https://www.acmicpc.net/problem/11066)            | 10/05 |
+| G5     | [BOJ15681](https://www.acmicpc.net/problem/15681)            | 10/05 |
 
