@@ -4,10 +4,10 @@
 
 ## 📖 오늘의 문제
 
-| 난이도 | 문제 링크                                                    | 날짜  |
-| ------ | ------------------------------------------------------------ | ----- |
-| 1      | [복서정렬하기](https://programmers.co.kr/learn/courses/30/lessons/85002?language=java) | 10/06 |
-| 2      | [입실퇴실](https://programmers.co.kr/learn/courses/30/lessons/86048) | 10/06 |
+| 난이도 | 문제 링크                                         | 날짜  |
+| ------ | ------------------------------------------------- | ----- |
+| G5     | [적록색약](https://www.acmicpc.net/problem/10026) | 10/08 |
+| S1     | [추월](https://www.acmicpc.net/problem/2002)      | 10/08 |
 
 ## 📚 지난 문제
 
@@ -31,4 +31,8 @@
 | G4     | [BOJ16236](https://www.acmicpc.net/problem/16236)            | 10/04 |
 | G3     | [BOJ11066](https://www.acmicpc.net/problem/11066)            | 10/05 |
 | G5     | [BOJ15681](https://www.acmicpc.net/problem/15681)            | 10/05 |
+| 1      | [복서정렬하기](https://programmers.co.kr/learn/courses/30/lessons/85002?language=java) | 10/06 |
+| 2      | [입실퇴실](https://programmers.co.kr/learn/courses/30/lessons/86048) | 10/06 |
+| S1     | [상어초등학교](https://www.acmicpc.net/problem/21608)        | 10/07 |
+| G5     | [괄호제거](https://www.acmicpc.net/problem/2800)             | 10/07 |
 
