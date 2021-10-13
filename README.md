@@ -4,10 +4,10 @@
 
 ## 📖 오늘의 문제
 
-| 난이도 | 문제 링크                                         | 날짜  |
-| ------ | ------------------------------------------------- | ----- |
-| G5     | [적록색약](https://www.acmicpc.net/problem/10026) | 10/08 |
-| S1     | [추월](https://www.acmicpc.net/problem/2002)      | 10/08 |
+| 난이도 | 문제 링크                                                    | 날짜  |
+| ------ | ------------------------------------------------------------ | ----- |
+| S1     | [이진검색트리](https://www.acmicpc.net/problem/5639)         | 10/14 |
+| S2     | [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053) | 10/14 |
 
 ## 📚 지난 문제
 
@@ -35,4 +35,12 @@
 | 2      | [입실퇴실](https://programmers.co.kr/learn/courses/30/lessons/86048) | 10/06 |
 | S1     | [상어초등학교](https://www.acmicpc.net/problem/21608)        | 10/07 |
 | G5     | [괄호제거](https://www.acmicpc.net/problem/2800)             | 10/07 |
+| G5     | [적록색약](https://www.acmicpc.net/problem/10026)            | 10/08 |
+| S1     | [추월](https://www.acmicpc.net/problem/2002)                 | 10/08 |
+| G4     | [사다리 조작](https://www.acmicpc.net/problem/15684)         | 10/11 |
+| 3      | [추석 트래픽](https://programmers.co.kr/learn/courses/30/lessons/17676#) | 10/11 |
+| G5     | [진우의 달 여행(Large)](https://www.acmicpc.net/problem/17485) | 10/12 |
+| G4     | [점프](https://www.acmicpc.net/problem/2253)                 | 10/12 |
+| G5     | [인구이동](https://www.acmicpc.net/problem/16234)            | 10/13 |
+| G4     | [드래곤커브](https://www.acmicpc.net/problem/15685)          | 10/13 |
 
