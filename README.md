@@ -6,8 +6,7 @@
 
 | 난이도 | 문제 링크                                                    | 날짜  |
 | ------ | ------------------------------------------------------------ | ----- |
-| S1     | [이진검색트리](https://www.acmicpc.net/problem/5639)         | 10/14 |
-| S2     | [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053) | 10/14 |
+| 2      | [행렬 테두리 회전하기](https://programmers.co.kr/learn/courses/30/lessons/77485) | 10/15 |
 
 ## 📚 지난 문제
 
@@ -43,4 +42,8 @@
 | G4     | [점프](https://www.acmicpc.net/problem/2253)                 | 10/12 |
 | G5     | [인구이동](https://www.acmicpc.net/problem/16234)            | 10/13 |
 | G4     | [드래곤커브](https://www.acmicpc.net/problem/15685)          | 10/13 |
+| S1     | [이진검색트리](https://www.acmicpc.net/problem/5639)         | 10/14 |
+| S2     | [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053) | 10/14 |
+| S1     | [이진검색트리](https://www.acmicpc.net/problem/5639)         | 10/14 |
+
 
