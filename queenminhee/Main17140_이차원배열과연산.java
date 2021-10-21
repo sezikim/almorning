@@ -105,6 +105,7 @@ public class Main17140_이차원배열과연산 {
 
 }
 
+//class명은 문제 번호로 ...!
 class Sol17140 implements Comparable<Sol17140> {
     int ele;
     int count;
